@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/yeahdongcn/yeahdongcn/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/yeahdongcn/yeahdongcn/main/wave.gif" width="30px">
 
 <!--
 **yeahdongcn/yeahdongcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
