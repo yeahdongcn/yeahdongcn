@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yeahdongcn&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahdongcn&hide=TeX&layout=compact&theme=dark)
+**Languages and Tools:**  
+
+
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=yeahdongcn&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="R0CKSTAR's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahdongcn&hide=TeX&layout=compact&hide_border=true&theme=dark" /></a> |
+| ------------- | ------------- |
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yeahdongcn.yeahdongcn)
