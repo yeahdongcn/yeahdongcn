@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a full-stack software engineer mainly focus on `Cloud Native`, `Virtualization` and `macOS/iOS`.
+
 **About Me**
 
 **Languages and Tools:**  
