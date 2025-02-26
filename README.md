@@ -34,9 +34,12 @@ I'm a full-stack software engineer mainly focused on `AI Infra`, `Cloud Native`,
 <!-- | <a href="https://github.com/yeahdongcn/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yeahdongcn&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" /></a> | <a href="https://github.com/yeahdongcn/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahdongcn&hide=TeX&layout=compact&hide_border=true&theme=dark" /></a> |
 | ------------- | ------------- | -->
 
-
+<!--
 [![](https://raw.githubusercontent.com/yeahdongcn/yeahdongcn/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yeahdongcn/yeahdongcn/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yeahdongcn/yeahdongcn/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yeahdongcn/yeahdongcn/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yeahdongcn/yeahdongcn/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahdongcn)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeahdongcn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yeahdongcn.yeahdongcn)
