@@ -40,10 +40,10 @@ I'm a full-stack software engineer mainly focused on `AI Infra`, `Cloud Native`,
 [![](https://raw.githubusercontent.com/yeahdongcn/yeahdongcn/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yeahdongcn/yeahdongcn/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=222 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahdongcn&layout=compact" />
+  <img height=222 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahdongcn&layout=compact&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=222 align="center" src="https://github-readme-stats.vercel.app/api?username=yeahdongcn&show_icons=true&show=prs_merged,prs_merged_percentage" />
+  <img height=222 align="center" src="https://github-readme-stats.vercel.app/api?username=yeahdongcn&show_icons=true&show=prs_merged,prs_merged_percentage&theme=ambient_gradient" />
 </a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yeahdongcn.yeahdongcn)
