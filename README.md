@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Xiaodong Ye
+# Hi there! 👋 I'm R0CKSTAR
 
 ### 🚀 AI Infrastructure Engineer & Open Source Enthusiast
 
@@ -17,9 +17,9 @@
 ## 🎯 About Me
 
 ```python
-class YeahDongCN:
+class yeahdongcn:
     def __init__(self):
-        self.name = "Xiaodong Ye"
+        self.name = "R0CKSTAR"
         self.role = "AI Infrastructure Engineer"
         self.company = "MooreThreads"
         self.location = "Beijing, China 🇨🇳"
