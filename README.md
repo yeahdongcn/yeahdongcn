@@ -4,11 +4,14 @@
 
 ### 🚀 AI Infrastructure Engineer & Open Source Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+GPU+Clusters+for+AI;Cloud+Native+%26+Virtualization+Expert;iOS%2FmacOS+Developer;LLM+Orchestration+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FCEE09&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+GPU+Clusters+for+AI;Cloud+Native+%26+Virtualization+Expert;iOS%2FmacOS+Developer;LLM+Orchestration+Specialist" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/yeahdongcn?label=Follow&style=social)](https://github.com/yeahdongcn?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/yeahdongcn/)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-yeahdongcn-yellow)](https://huggingface.co/yeahdongcn/)
+
+<!-- Cyberpunk 2077 themed banner from profile summary cards -->
+<img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="profile-banner" width="100%" />
 
 </div>
 
@@ -174,14 +177,37 @@ Generate Helm Charts from Kustomize configurations
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeahdongcn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahdongcn&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeahdongcn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FCEE09&text_color=00FFF7&icon_color=00FFF7&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahdongcn&layout=compact&hide_border=true&title_color=FCEE09&text_color=00FFF7&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeahdongcn&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeahdongcn&theme=highcontrast&hide_border=true&ring=FCEE09&currStreakLabel=FCEE09&sideNums=00FFF7&sideLabels=00FFF7)
+
+<!-- Cyberpunk 2077 additional cards -->
+<img src="./profile-summary-card-output/2077/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/2077/4-productive-time.svg" width="49%" />
+
+</div>
+
+---
+
+## 📈 Recent Activity
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+🎯 **Latest Contributions (August 2025):**
+- 🚀 Major updates to MooreThreads/ollama-musa with improved MUSA GPU stability
+- 🤖 Agentman: new agent templates, better Dockerfile instruction coverage, and base image refresh
+- 🦙 MaKllama: multi-node scheduling improvements for LLM workloads on macOS nodes
+- ⚡ Kustohelmize: faster chart generation and better Kustomize edge-case handling
+- 🧪 Added CI checks and linting rules across repos; stabilized pipelines
+- 📦 Published minor releases across Go/Swift utilities and Python tooling
+- 🎮 Personal: grabbed a PS5 — currently vibing in Night City (Cyberpunk 2077)
+<!--END_SECTION:activity-->
 
 </div>
 
@@ -205,26 +231,6 @@ Generate Helm Charts from Kustomize configurations
 [![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-x3-purple?style=flat-square&logo=github)](https://github.com/yeahdongcn)
 [![Quickdraw](https://img.shields.io/badge/Quickdraw-Achievement-green?style=flat-square&logo=github)](https://github.com/yeahdongcn)
 [![Starstruck](https://img.shields.io/badge/Starstruck-x3-gold?style=flat-square&logo=github)](https://github.com/yeahdongcn)
-
-</div>
-
----
-
-## 📈 Recent Activity
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-🎯 **Latest Contributions (July 2025):**
-- 🚀 Contributing to MooreThreads/ollama-musa for MUSA GPU support
-- 🤖 Built GitHub profile manager agent with Agentman
-- ⚙️ Enhanced Dockerfile support in AI agent tools
-- 🔧 Added ORCHESTRATOR examples for AI workflows
-- 🦙 Advanced LLM orchestration with MaKllama on Kubernetes
-- 📦 Version bumps and dependency updates across projects
-- 🧹 Code optimization and CI/CD improvements
-- 🌟 Achieved Pair Extraordinaire x3 on GitHub
-<!--END_SECTION:activity-->
 
 </div>
 
