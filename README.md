@@ -115,7 +115,7 @@ Tool for building and managing AI agents with Docker integration
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![Stars](https://img.shields.io/github/stars/MooreThreads/ollama-musa?style=flat-square&color=yellow)](https://github.com/MooreThreads/ollama-musa/stargazers)
 
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral on MUSA
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models on MUSA.
 
 </td>
 </tr>
