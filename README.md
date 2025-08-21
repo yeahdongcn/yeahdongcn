@@ -46,8 +46,8 @@ class yeahdongcn:
     def get_achievements(self):
         return {
             "github_stars": "2000+",
-            "github_followers": "324+",
-            "github_repos": "238+",
+            "github_followers": "333+",
+            "github_repos": "244+",
             "github_program": "Developer Program Member",
             "career_path": ["VMware", "Sangfor", "MooreThreads"],
             "specialties": ["Swift", "Python", "Go", "Kubernetes", "CUDA"]
@@ -219,7 +219,7 @@ Generate Helm Charts from Kustomize configurations
 
 | 🏢 **Current Role** | 🎯 **Expertise** | 🌐 **Community** |
 |:---:|:---:|:---:|
-| AI Infrastructure Engineer<br/>@ **MooreThreads** | GPU Clusters<br/>Cloud Native<br/>Virtualization<br/>LLM Optimization | GitHub Developer<br/>Program Member<br/>📝 [324+ Followers](https://github.com/yeahdongcn?tab=followers)<br/>📦 238+ Repositories |
+| AI Infrastructure Engineer<br/>@ **MooreThreads** | GPU Clusters<br/>Cloud Native<br/>Virtualization<br/>LLM Optimization | GitHub Developer<br/>Program Member<br/>📝 [333+ Followers](https://github.com/yeahdongcn?tab=followers)<br/>📦 244+ Repositories |
 
 </div>
 
